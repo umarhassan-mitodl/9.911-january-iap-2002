@@ -1,0 +1,50 @@
+{
+  "term": "January IAP",
+  "year": "2002",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Philosophy",
+      "Ethics"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "legacy_uid": "1cdef9fd-4a2d-12ce-bb1a-bbf7fd38f564",
+  "instructors": {
+    "content": [
+      "e384ba67-b2cf-be73-7b11-7aad17bd07f0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "6fa84b41-f73b-e08b-6f33-57ebc64adbc2",
+    "website": "9-911-reasonable-conduct-in-science-january-iap-2002"
+  },
+  "course_title": "Reasonable Conduct in Science",
+  "hide_download": true,
+  "course_description": "To provide instruction and dialog on practical ethical issues relating to the responsible conduct of human and animal research in the brain and cognitive sciences. Specific emphasis will be placed on topics relevant to young researchers including data handling, animal and human subjects, misconduct, mentoring, intellectual property, and publication.\n",
+  "department_numbers": [
+    "9"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "9.911",
+  "course_image_thumbnail": {
+    "content": "83738bda-5ec3-278e-2367-a03ad82f636b",
+    "website": "9-911-reasonable-conduct-in-science-january-iap-2002"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "68c5601b-3236-4a62-8f83-84f689e078bf",
+  "site_short_id": "9.911-january-iap-2002",
+  "site_url_path": "courses/9-911-reasonable-conduct-in-science-january-iap-2002",
+  "title": "Course Metadata"
+}
